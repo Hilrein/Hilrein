@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Fullstack developer How to contact me: tg @hilrein
 
 * 🌍  I'm based in Astana
-* ✉️  You can contact me at [1forbess@mail.ru](mailto:1forbess@mail.ru)
+* ✉️  You can contact me at [hilrein@gmail.com](mailto:hilrein@gmail.com)
 * 🧠  I'm learning dart & flutter
 * 🤝  I'm open to collaborating on interesting projects
 
