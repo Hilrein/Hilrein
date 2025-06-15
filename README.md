@@ -35,7 +35,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@Hilrein" target="_blank">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=hilrein)](https://git.io/streak-stats)
   </a>
 </p>
 
