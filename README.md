@@ -47,7 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilrein&layout=compact&theme=react&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180"/>
 </p>
 
-<p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DnverCoder1" alt="GitHub Streak" /></a>
-</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
