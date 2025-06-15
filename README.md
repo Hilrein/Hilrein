@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilrein&layout=compact&theme=react&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180"/>
 </p>
 
-<a href="https://github.com/Hilrein">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilrein&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Hilrein's GitHub streak" />
-</a>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Hilrein&theme=dark&hide_border=true&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=3382ed&dates=ffffff" alt="GitHub Streak" />
+</p>
+
