@@ -43,9 +43,10 @@
 
 **My GitHub Stats**
 
-<a href="https://github.com/Hilrein">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilrein&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true" alt="Hilrein's GitHub stats" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hilrein&show_icons=true&theme=react&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilrein&layout=compact&theme=react&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180"/>
+</p>
 
 <a href="https://github.com/Hilrein">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilrein&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Hilrein's GitHub streak" />
