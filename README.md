@@ -49,6 +49,6 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Hilrein&theme=dark&hide_border=true&stroke=3382ed&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=3382ed&dates=ffffff" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
