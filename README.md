@@ -3,7 +3,7 @@
 ## Web & Mobile Developer
 
 * 🌍  I'm based in Astana
-* 🖥️  See my portfolio at [My Portfolio](https://hilrein.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://hilrein.vercel.app/)
 * ✉️  You can contact me at [hilreinn@gmail.com](mailto:hilreinn@gmail.com)
 * 🧠  I'm learning machine learning
 * 🤝  I'm open to collaborating on interesting projects
