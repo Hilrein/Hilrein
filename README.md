@@ -17,6 +17,7 @@
   <img src="https://cdn.simpleicons.org/javascript/3382ed" width="36" alt="JS" />
   <img src="https://cdn.simpleicons.org/python/3382ed" width="36" height="36" alt="Python" />
   <img src="https://cdn.simpleicons.org/go/3382ed" width="36" height="36" alt="Golang" />
+  <img src="https://cdn.simpleicons.org/rust/3382ed" width="36" height="36" alt="Rust"/>
   
   <!-- Frameworks -->
   <img src="https://cdn.simpleicons.org/flutter/3382ed" width="36" height="36" alt="Flutter" />
