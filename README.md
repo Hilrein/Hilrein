@@ -12,12 +12,17 @@
 ### Skills
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/javascript/3382ed" width="36" height="36" alt="JavaScript" />
+  
+  <!-- Programming Languages -->
+  <img src="https://cdn.simpleicons.org/javascript/3382ed" width="36" alt="JS" />
   <img src="https://cdn.simpleicons.org/python/3382ed" width="36" height="36" alt="Python" />
   <img src="https://cdn.simpleicons.org/go/3382ed" width="36" height="36" alt="Golang" />
+  
+  <!-- Frameworks -->
   <img src="https://cdn.simpleicons.org/flutter/3382ed" width="36" height="36" alt="Flutter" />
   <img src="https://cdn.simpleicons.org/django/3382ed" width="36" height="36" alt="Django" />
-  /* DB */
+  
+  <!-- Databases -->
   <img src="https://cdn.simpleicons.org/supabase/3382ed" width="36" height="36" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
   <img src="https://cdn.simpleicons.org/postgresql/3382ed" width="36" height="36" alt="PostgreSQL" />
