@@ -25,11 +25,11 @@
   <img src="https://cdn.simpleicons.org/flutter/3382ed" width="36" height="36" alt="Flutter" />
   <img src="https://cdn.simpleicons.org/django/3382ed" width="36" height="36" alt="Django" />
   
-  <!-- Databases -->
+  <!-- Databases
   <img src="https://cdn.simpleicons.org/mysql/3382ed" width="36" height="36" alt="MySQL"/>
   <img src="https://cdn.simpleicons.org/postgresql/3382ed" width="36" height="36" alt="PostgreSQL" />
   <img src="https://cdn.simpleicons.org/firebase/3382ed" width="36" height="36" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/supabase/3382ed" width="36" height="36" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/supabase/3382ed" width="36" height="36" alt="Supabase" /> -->
 </p>
 
 ### Socials
