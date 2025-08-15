@@ -12,7 +12,6 @@
 ### Skills
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/cplusplus/3382ed" width="36" height="36" alt="C++" />
   <img src="https://cdn.simpleicons.org/javascript/3382ed" width="36" height="36" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/python/3382ed" width="36" height="36" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
