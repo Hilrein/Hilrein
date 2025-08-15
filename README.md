@@ -9,7 +9,7 @@
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  My telegram [contact](https://t.me/middle_develop)
 
-### Programming Languages
+### Programming Languages & Frameworks
 <p align="left">
   
   <!-- Programming Languages -->
