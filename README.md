@@ -24,6 +24,7 @@
   <img src="https://cdn.simpleicons.org/react/3382ed" width="36" height="36" alt="React" />
   <img src="https://cdn.simpleicons.org/flutter/3382ed" width="36" height="36" alt="Flutter" />
   <img src="https://cdn.simpleicons.org/django/3382ed" width="36" height="36" alt="Django" />
+  <img src="https://cdn.simpleicons.org/fastapi/3382ed" width="36" height="36" alt="Fast Api" />
   
   <!-- Databases
   <img src="https://cdn.simpleicons.org/mysql/3382ed" width="36" height="36" alt="MySQL"/>
