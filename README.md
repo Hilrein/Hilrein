@@ -7,7 +7,7 @@
 * ✉️  You can contact me at [hilreinn@gmail.com](mailto:hilreinn@gmail.com)
 * 🧠  I'm learning machine learning
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  My telegram @middle_develop
+* ⚡  My telegram t.me/middle_develop
 
 ### Skills
 
