@@ -26,6 +26,7 @@
   
   <!-- Frameworks -->
   <img src="https://cdn.simpleicons.org/node.js/3382ed" width="36" height="36" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/react/3382ed" width="36" height="36" alt="React" />
   <img src="https://cdn.simpleicons.org/flutter/3382ed" width="36" height="36" alt="Flutter" />
   <img src="https://cdn.simpleicons.org/django/3382ed" width="36" height="36" alt="Django" />
 </p>
@@ -34,9 +35,10 @@
 <p align="left">
   
   <!-- Databases -->
-  <img src="https://cdn.simpleicons.org/supabase/3382ed" width="36" height="36" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
   <img src="https://cdn.simpleicons.org/postgresql/3382ed" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/firebase/3382ed" width="36" height="36" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/supabase/3382ed" width="36" height="36" alt="Supabase" />
 </p>
 
 ### Socials
