@@ -9,8 +9,7 @@
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  My telegram [contact](https://t.me/middle_develop)
 
-### Skills
-
+### Programming Languages
 <p align="left">
   
   <!-- Programming Languages -->
@@ -20,10 +19,19 @@
   <img src="https://cdn.simpleicons.org/go/3382ed" width="36" height="36" alt="Golang" />
   <img src="https://cdn.simpleicons.org/rust/3382ed" width="36" height="36" alt="Rust"/>
   
+</p>
+
+### Frameworks
+<p align="left">
+  
   <!-- Frameworks -->
   <img src="https://cdn.simpleicons.org/node.js/3382ed" width="36" height="36" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/flutter/3382ed" width="36" height="36" alt="Flutter" />
   <img src="https://cdn.simpleicons.org/django/3382ed" width="36" height="36" alt="Django" />
+</p>
+
+### Databases
+<p align="left">
   
   <!-- Databases -->
   <img src="https://cdn.simpleicons.org/supabase/3382ed" width="36" height="36" alt="Supabase" />
