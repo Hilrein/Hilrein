@@ -3,8 +3,7 @@
 ## Web & Mobile Developer
 
 * 🌍  I'm based in Germany
-* 👤  I'm middle developer at 18y.o.
-* 💼  I'm working as a backend at Kraken (Crypto Company)
+* 👤  I'm software developer at 18y.o. <!-- * 💼  I'm working as a backend at Kraken (Crypto Company) -->
 * 🖥️  See my portfolio at [this link](https://hilrein.vercel.app/)
 * ✉️  You can contact me at [hilreinn@gmail.com](mailto:hilreinn@gmail.com) <!-- * 🧠  I'm learning machine learning -->
 * 🤝  I'm open to collaborating on interesting projects
